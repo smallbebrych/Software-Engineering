@@ -13,3 +13,4 @@ done
 cp "$file" "$2/$name$numb.$ext"
 done
 ' sh {} "$2" \;
+echo "The end"
